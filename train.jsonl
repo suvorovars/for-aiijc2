@@ -3,3 +3,5 @@
 {"premise": "⠺ ⠞⠕⠃⠕⠇⠾⠎⠅⠑ ⠏⠗⠕⠚⠊⠺⠁⠑⠞ ⠼⠁⠚⠚⠚⠚⠚ ⠟⠑⠇⠕⠺⠑⠅⠲", "hypothesis": "В Тобольске проживает 100000 человек.", "label": "entailment", "idx": 2}
 {"premise": "⠫ ⠓⠕⠗⠕⠱⠊⠯⠂ ⠁ ⠕⠝ ⠤ ⠏⠇⠕⠓⠕⠯", "hypothesis": "Я хороший, 1 он - плохой", "label": "not_entailment", "idx": 3}
 {"premise": "⠺⠁⠎⠫ ⠕⠟⠑⠝⠾ ⠁⠅⠅⠥⠗⠁⠞⠝⠮⠯ ⠟⠑⠇⠕⠺⠑⠅⠲", "hypothesis": "В1ся очень 1ккур1тный человек.", "label": "not_entailment", "idx": 4}
+{"premise": "⠺ ⠼⠁⠊⠙⠑ ⠛⠕⠙⠥ ⠃⠮⠇⠁ ⠺⠞⠕⠗⠁⠫ ⠍⠊⠗⠕⠺⠁⠫ ⠺⠕⠯⠝⠁", "hypothesis": "В А945 году был1 Вторая Мировая Война", "label": "not_entailment", "idx": 5}
+{"premise": "⠫ ⠗⠕⠙⠊⠇⠎⠫ ⠺ ⠼⠁⠊⠓⠁ ⠛⠕⠙⠥", "hypothesis": "Я родился в 1981 году", "label": "entailment", "idx": 6}
