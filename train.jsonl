@@ -1,10 +1,5 @@
-{"premise": "⠏⠗⠊⠺⠑⠞⠂ ⠍⠊⠗⠖",
-"hypothesis": "Привет, мир!", "label": "entailment", "idx": 0}
-{"premise": "⠫ ⠊⠵⠥⠟⠁⠳ ⠍⠁⠉⠓⠊⠝⠑ ⠇⠑⠁⠗⠝⠊⠝⠛",
-"hypothesis": "Я изучаю machine learning", "label": "entailment", "idx": 1}
-{"premise": "⠺ ⠞⠕⠃⠕⠇⠾⠎⠅⠑ ⠏⠗⠕⠚⠊⠺⠁⠑⠞ ⠼⠁⠚⠚⠚⠚⠚ ⠟⠑⠇⠕⠺⠑⠅⠲",
-"hypothesis": "В Тобольске проживает 100000 человек.", "label": "entailment", "idx": 2}
-{"premise": "⠫ ⠓⠕⠗⠕⠱⠊⠯⠂ ⠁ ⠕⠝ ⠤ ⠏⠇⠕⠓⠕⠯",
-"hypothesis": "Я хороший, 1 он - плохой", "label": "not_entailment", "idx": 3}
-{"premise": "⠺⠁⠎⠫ ⠕⠟⠑⠝⠾ ⠁⠅⠅⠥⠗⠁⠞⠝⠮⠯ ⠟⠑⠇⠕⠺⠑⠅⠲",
-"hypothesis": "В1ся очень 1ккур1тный человек.", "label": "not_entailment", "idx": 4}
+{"premise": "⠏⠗⠊⠺⠑⠞⠂ ⠍⠊⠗⠖", "hypothesis": "Привет, мир!", "label": "entailment", "idx": 0}
+{"premise": "⠫ ⠊⠵⠥⠟⠁⠳ ⠍⠁⠉⠓⠊⠝⠑ ⠇⠑⠁⠗⠝⠊⠝⠛", "hypothesis": "Я изучаю machine learning", "label": "entailment", "idx": 1}
+{"premise": "⠺ ⠞⠕⠃⠕⠇⠾⠎⠅⠑ ⠏⠗⠕⠚⠊⠺⠁⠑⠞ ⠼⠁⠚⠚⠚⠚⠚ ⠟⠑⠇⠕⠺⠑⠅⠲", "hypothesis": "В Тобольске проживает 100000 человек.", "label": "entailment", "idx": 2}
+{"premise": "⠫ ⠓⠕⠗⠕⠱⠊⠯⠂ ⠁ ⠕⠝ ⠤ ⠏⠇⠕⠓⠕⠯", "hypothesis": "Я хороший, 1 он - плохой", "label": "not_entailment", "idx": 3}
+{"premise": "⠺⠁⠎⠫ ⠕⠟⠑⠝⠾ ⠁⠅⠅⠥⠗⠁⠞⠝⠮⠯ ⠟⠑⠇⠕⠺⠑⠅⠲", "hypothesis": "В1ся очень 1ккур1тный человек.", "label": "not_entailment", "idx": 4}
